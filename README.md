@@ -15,4 +15,4 @@ E.g., a cell may contain "Vandervelde (1992);  Internal Report AM-IR-01", and th
 ![GreenBlueHighlight](https://user-images.githubusercontent.com/69328795/89600802-1f114500-d820-11ea-96a0-11f8b08aa447.png)
 
 
-
+Excel file from: https://geology-ags-aer.opendata.arcgis.com/datasets/industrial-mineral-occurrence?geometry=-174.768%2C44.999%2C-55.237%2C62.777
